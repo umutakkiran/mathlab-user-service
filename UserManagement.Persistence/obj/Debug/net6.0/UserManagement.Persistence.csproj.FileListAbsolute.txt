@@ -1,0 +1,17 @@
+D:\API\UserManagementAPI\UserManagement.Persistence\bin\Debug\net6.0\UserManagement.Persistence.deps.json
+D:\API\UserManagementAPI\UserManagement.Persistence\bin\Debug\net6.0\UserManagement.Persistence.runtimeconfig.json
+D:\API\UserManagementAPI\UserManagement.Persistence\bin\Debug\net6.0\UserManagement.Persistence.dll
+D:\API\UserManagementAPI\UserManagement.Persistence\bin\Debug\net6.0\UserManagement.Persistence.pdb
+D:\API\UserManagementAPI\UserManagement.Persistence\bin\Debug\net6.0\Domain.dll
+D:\API\UserManagementAPI\UserManagement.Persistence\bin\Debug\net6.0\Domain.pdb
+D:\API\UserManagementAPI\UserManagement.Persistence\obj\Debug\net6.0\UserManagement.Persistence.csproj.AssemblyReference.cache
+D:\API\UserManagementAPI\UserManagement.Persistence\obj\Debug\net6.0\UserManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\UserManagementAPI\UserManagement.Persistence\obj\Debug\net6.0\UserManagement.Persistence.AssemblyInfoInputs.cache
+D:\API\UserManagementAPI\UserManagement.Persistence\obj\Debug\net6.0\UserManagement.Persistence.AssemblyInfo.cs
+D:\API\UserManagementAPI\UserManagement.Persistence\obj\Debug\net6.0\UserManagement.Persistence.csproj.CoreCompileInputs.cache
+D:\API\UserManagementAPI\UserManagement.Persistence\obj\Debug\net6.0\UserManagement.Persistence.csproj.CopyComplete
+D:\API\UserManagementAPI\UserManagement.Persistence\obj\Debug\net6.0\UserManagement.Persistence.dll
+D:\API\UserManagementAPI\UserManagement.Persistence\obj\Debug\net6.0\refint\UserManagement.Persistence.dll
+D:\API\UserManagementAPI\UserManagement.Persistence\obj\Debug\net6.0\UserManagement.Persistence.pdb
+D:\API\UserManagementAPI\UserManagement.Persistence\obj\Debug\net6.0\UserManagement.Persistence.genruntimeconfig.cache
+D:\API\UserManagementAPI\UserManagement.Persistence\obj\Debug\net6.0\ref\UserManagement.Persistence.dll
